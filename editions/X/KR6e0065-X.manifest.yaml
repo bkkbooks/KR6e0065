@@ -1,0 +1,524 @@
+canonical_identifier: bkk:krp/KR6e0065/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0065/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續華嚴經略疏刊定記
+  identifiers:
+    krp: KR6e0065
+    cbeta: X03n0221
+    cbeta_old_id: X03n0221
+    authorityid: CA0001393
+    json_key: X0221
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X03/X03n0221.xml
+    old_id: X03n0221
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0065_000-X.yaml, hash: 'sha256:97f4a3700b0f8c7bc851384241d62d8246d4e7172d3f47c8aa656cb94a1dc4e0'}
+  - {seq: 1, filename: KR6e0065_001-X.yaml, hash: 'sha256:7b47ac355674dc67ae1087ffc273687dbb4abd744be7cfc358b772a1011d1757'}
+  - {seq: 2, filename: KR6e0065_002-X.yaml, hash: 'sha256:4831110ca6358231e84c6110e4a84107f55ca987c15abcec8c95a3873e4195e1'}
+  - {seq: 3, filename: KR6e0065_003-X.yaml, hash: 'sha256:4215dda01781ffa5f53d1bdbbaa546ba87eb865493b43379fef51bb6e4e33b1e'}
+  - {seq: 4, filename: KR6e0065_004-X.yaml, hash: 'sha256:ac940eab5315941ca874dd14bd5a09fb1ded139909f00aafac2939612ab0625e'}
+  - {seq: 5, filename: KR6e0065_005-X.yaml, hash: 'sha256:b2dd44a91ab844d09dce5b485c0fb3016ace12083cfc4fc73d49444500a2b468'}
+  - {seq: 8, filename: KR6e0065_008-X.yaml, hash: 'sha256:fe8d5621155fcda54472fea3aae30f6ab0591f0bf7e3745c62c39be638efea9c'}
+  - {seq: 9, filename: KR6e0065_009-X.yaml, hash: 'sha256:ffe993fe70db703d024027d1b93f396dd30701a7bfc2df777732ce573ab733e2'}
+  - {seq: 10, filename: KR6e0065_010-X.yaml, hash: 'sha256:2fd9622c6a6f624bc0a1a851fc2936129dac6bb03cea285bc62d1e934ec0da9f'}
+  - {seq: 11, filename: KR6e0065_011-X.yaml, hash: 'sha256:b7fc5854cc8822176c08bcc05acdc6a4348c6095e76a5a9789b0c4833b8fb17a'}
+  - {seq: 12, filename: KR6e0065_012-X.yaml, hash: 'sha256:21f9d1acf3e55f95e887e1e8ab16c80c764e27e4f8caeda01555e295ad0b9d72'}
+  - {seq: 13, filename: KR6e0065_013-X.yaml, hash: 'sha256:6e00d605a04e9c2584a3ad9b3559368d39eca9e978e41ffd58f239c117c9410a'}
+  - {seq: 14, filename: KR6e0065_014-X.yaml, hash: 'sha256:839be7ee1c97762529d80244edd8e17a9ad666fb60498d8077d66c318a02d7fc'}
+  - {seq: 15, filename: KR6e0065_015-X.yaml, hash: 'sha256:0b799bc8a7e1d241771b42f7292328f86fc18132a33092a3cccb4833d533b920'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0065_000-X.markers.yaml, hash: 'sha256:3c3a83aa4a547dc5ad916bbbdf36d42d95d9fd89186bcc187f9409924b3983d7'}
+  - {seq: 1, role: markers, filename: assets/KR6e0065_001-X.markers.yaml, hash: 'sha256:0763975ef7f2f87380ce0d108571dbe6b01d0cf9a11550af8976ce01af7e95b7'}
+  - {seq: 2, role: markers, filename: assets/KR6e0065_002-X.markers.yaml, hash: 'sha256:0d82c3c6db2a2bc640205b34459203ad9fa790ae3f0a981c489e3bfb26283c1c'}
+  - {seq: 3, role: markers, filename: assets/KR6e0065_003-X.markers.yaml, hash: 'sha256:2ff43cce9fda90c0b344cd5189903cfcc5892e1f622d0fca9ce05f4d84ec8ddd'}
+  - {seq: 4, role: markers, filename: assets/KR6e0065_004-X.markers.yaml, hash: 'sha256:dd84816bb6b837959cee67818b29041f239a3cd86466b6178bc51de7864da56b'}
+  - {seq: 5, role: markers, filename: assets/KR6e0065_005-X.markers.yaml, hash: 'sha256:a6d2fea400766ba2b79ba2888a7b98ae60cccd023ff69b7df0d47e4975092eea'}
+  - {seq: 8, role: markers, filename: assets/KR6e0065_008-X.markers.yaml, hash: 'sha256:e846f8b880053454645a2bd872b9449fd6f1a2fbfb651919ed1bd513ced3bffb'}
+  - {seq: 9, role: markers, filename: assets/KR6e0065_009-X.markers.yaml, hash: 'sha256:e4f8c9ce463f012a063c9b8414e9183adce5b26395dc6d51016f26f658b08246'}
+  - {seq: 10, role: markers, filename: assets/KR6e0065_010-X.markers.yaml, hash: 'sha256:1b96acec539e9b707a5cee15c620e9d91b568f17ee45e8af40cf5afde997fe43'}
+  - {seq: 11, role: markers, filename: assets/KR6e0065_011-X.markers.yaml, hash: 'sha256:5ec859862ababf2d1a10075c1ad76f098dca4705f5fa423df88f3ec5913332dc'}
+  - {seq: 12, role: markers, filename: assets/KR6e0065_012-X.markers.yaml, hash: 'sha256:be9ba578e9d6dd7dc6f6202fcb41e5c590a017bcf4ef76d3022228840d78f4e7'}
+  - {seq: 13, role: markers, filename: assets/KR6e0065_013-X.markers.yaml, hash: 'sha256:49e426aee8cc15488913e64d17058a31d1564be65b0b825f3ef099e595d01f44'}
+  - {seq: 14, role: markers, filename: assets/KR6e0065_014-X.markers.yaml, hash: 'sha256:7a2096b17b1e99f2b3c73ad7b676a8a550a952b50d0778678a3536703ecb1aa7'}
+  - {seq: 15, role: markers, filename: assets/KR6e0065_015-X.markers.yaml, hash: 'sha256:5ac308b52e5831c83d5854a62bb67ceb7c705cec5aef87005047396f9824c7a3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 38323
+  label: '續華嚴略疏刊定記卷第一
+
+    本末合盡文前十門中九門'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-2
+    span:
+    - body
+    - 178
+    - 178
+  label: 一教起所因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-3
+    span:
+    - body
+    - 4104
+    - 4104
+  label: 二藏部所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-4
+    span:
+    - body
+    - 10429
+    - 10429
+  label: 三顯教差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-5
+    span:
+    - body
+    - 20110
+    - 20110
+  label: 四簡所被機
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-6
+    span:
+    - body
+    - 21624
+    - 21624
+  label: 五能詮教體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-7
+    span:
+    - body
+    - 26968
+    - 26968
+  label: 六所詮宗趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-8
+    span:
+    - body
+    - 29313
+    - 29313
+  label: 七顯義分齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-9
+    span:
+    - body
+    - 35249
+    - 35249
+  label: 八部類傳譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0065_X_001-mulu-10
+    span:
+    - body
+    - 36502
+    - 36502
+  label: 九具釋題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0065_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 25954
+  label: 續華嚴略疏刊定記卷第二上下合盡世主妙嚴品
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0065_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十依文正釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0065_X_002-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 世主妙嚴品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 30256
+  label: 續華嚴略疏刊定記卷第三本末合盡毗盧遮那品
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 如來現相品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-mulu-2
+    span:
+    - body
+    - 8063
+    - 8063
+  label: 普賢三昧品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-mulu-3
+    span:
+    - body
+    - 11172
+    - 11172
+  label: 世界成就品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-mulu-4
+    span:
+    - body
+    - 18039
+    - 18039
+  label: 華藏世界品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0065_X_003-mulu-5
+    span:
+    - body
+    - 25386
+    - 25386
+  label: 毗盧遮那品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0065_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 29780
+  label: 續華嚴略疏刊定記卷第四本末合盡賢首品
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0065_X_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 光明覺品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0065_X_004-mulu-2
+    span:
+    - body
+    - 12912
+    - 12912
+  label: 淨行品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0065_X_004-mulu-3
+    span:
+    - body
+    - 21016
+    - 21016
+  label: 賢首品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 43370
+  label: 續華嚴略疏刊定記卷第五本末合盡第三會
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 昇須彌山頂品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-2
+    span:
+    - body
+    - 3814
+    - 3814
+  label: 須彌頂上偈讚品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-3
+    span:
+    - body
+    - 8622
+    - 8622
+  label: 十住品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-4
+    span:
+    - body
+    - 17733
+    - 17733
+  label: 梵行品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-5
+    span:
+    - body
+    - 23796
+    - 23796
+  label: 初發心功德品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0065_X_005-mulu-6
+    span:
+    - body
+    - 31993
+    - 31993
+  label: 明法品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0065_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 49388
+  label: 續華嚴略疏刊定記卷第八本末合盡第十迴向
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0065_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 26857
+  label: 續華嚴略疏刊定記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0065_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十地品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0065_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 36563
+  label: 續華嚴略疏刊定記卷第十本末合盡第五地
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0065_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 53193
+  label: 續華嚴略疏刊定記卷第十一本末合盡第十地
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0065_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 17992
+  label: 續華嚴略疏刊定記卷第十二盡佛不思議法品
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0065_X_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 十定品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0065_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 26942
+  label: 續華嚴略疏刊定記卷第十三本末合盡出現品
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0065_X_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 如來十身相海品第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0065_X_013-mulu-2
+    span:
+    - body
+    - 2084
+    - 2084
+  label: 如來隨好光明功德品第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0065_X_013-mulu-3
+    span:
+    - body
+    - 5762
+    - 5762
+  label: 普賢行品第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0065_X_013-mulu-4
+    span:
+    - body
+    - 8609
+    - 8609
+  label: 如來出現品第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0065_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 34168
+  label: 續華嚴略疏刊定記卷第十四本末合盡離世間品
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0065_X_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 離世間品第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0065_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 30145
+  label: 續華嚴略疏刊定記卷第十五本末合
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0065_X_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 入法界品第三十九
+  type: mulu
+  level: 1
+hash: sha256:8f5541d5e0f348192f505d6b54ceee0c1c5066be1965ef6be17ac84a09d5b1d2
